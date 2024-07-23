@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body {
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height:100vh;
+  background:url('./Components/Assets/bg-8.jpg')
+  no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
